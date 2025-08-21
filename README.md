@@ -6,4 +6,4 @@ Has the following functionality:
 3. Pop-up overlay when completing a task and there is no stamina.
 4. Useful links to sites (for example, Brico App or Market)
 to compile open ms visual studio and launch BitCraftTimer.sln or .csproj.
-
+mb need to install .NET runtime 9
